@@ -1,0 +1,20 @@
+{
+  "tickers":[
+    "CEMEXCPO.MX",
+    "GRUMAB.MX",
+    "ALFAA.MX",
+    "ALSEA.MX",
+    "ASURB.MX",
+    "GAPB.MX",
+    "GMEXICOB.MX",
+    "GRUMAB.MX",
+    "LALAB.MX",
+    "PINFRA.MX",
+    "IENOVA.MX",
+    "ICA.MX",
+    "GCARSOA1.MX",
+    "SPY"
+  ],
+  "start_date": "2014-1-1",
+  "end_date": "2014-1-15"
+}
